@@ -6,3 +6,4 @@ Professor orientador
 
 Alunos
 * Anderson Pires dos Santos
+* José Gustavo da Silva Rodrigues
